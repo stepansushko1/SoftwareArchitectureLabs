@@ -1,0 +1,11 @@
+{
+    "HOST": "127.0.0.1",
+    "PORTS": {
+        "FACADE_PORT":   8000,
+        "LOGGING_PORT":  [8001, 8002, 8003],
+        "MESSAGES_PORT": 8004
+    },
+
+    "RELOAD": true,
+    "LOG_LEVEL": "info"
+}
